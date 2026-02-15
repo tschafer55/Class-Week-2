@@ -130,6 +130,19 @@ body {
     background-color: #333;
 }
 
+.download-button.tertiary {
+    background-color: transparent;;
+    border: 1px solid #cccabf;
+}
+
+.download-button.tertiary:hover {
+    background-color: #eae8e1;
+}
+
+.download-button.tertiary:active {
+    background-color: #D8D6CE;
+}
+
 .page-label {
     position: fixed;
     top: 16px;
